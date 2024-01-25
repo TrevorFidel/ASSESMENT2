@@ -1,0 +1,19 @@
+h1{
+    font-family: Chilanka;
+    font-size: large;
+    text-align: center;
+    color: blue;
+}
+body{
+    background-color: crimson;
+}
+p{
+    color: white;
+    font-family: cursive;
+    font-size: large;
+}
+h2{
+    color: aqua;
+    text-align: left;
+    font-family: cursive;
+}
